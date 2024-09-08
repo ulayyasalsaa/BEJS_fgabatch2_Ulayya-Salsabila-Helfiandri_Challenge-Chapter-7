@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@sentry/node": "^8.28.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "nodemailer": "^6.9.15"
+  }
+}
